@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.57.1](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.57.0...v0.57.1) (2026-07-07)
+
+
+### Bug Fixes
+
+* Preserve live model on resumed sessions ([#848](https://github.com/agentclientprotocol/claude-agent-acp/issues/848)) ([f3d8ae3](https://github.com/agentclientprotocol/claude-agent-acp/commit/f3d8ae3eb389ee9367f48c8762562a55280ade0a)), closes [#845](https://github.com/agentclientprotocol/claude-agent-acp/issues/845)
+* Report usage for cancelled active turns ([#846](https://github.com/agentclientprotocol/claude-agent-acp/issues/846)) ([b03318f](https://github.com/agentclientprotocol/claude-agent-acp/commit/b03318f59c6165146c8d8e036227f35c3abd0ff4)), closes [#844](https://github.com/agentclientprotocol/claude-agent-acp/issues/844)
+* Use SDK guards for elicitation validation ([#850](https://github.com/agentclientprotocol/claude-agent-acp/issues/850)) ([32b9350](https://github.com/agentclientprotocol/claude-agent-acp/commit/32b93501d7a35a3b405b5022b4caaad492eed11c))
+
 ## [0.57.0](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.56.0...v0.57.0) (2026-07-07)
 
 
